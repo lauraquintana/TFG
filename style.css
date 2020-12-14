@@ -37,3 +37,8 @@ button:hover{
       color: black;
 
 }
+
+p{
+  color: black;
+  display: none;
+}
