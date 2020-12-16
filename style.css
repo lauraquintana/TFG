@@ -46,8 +46,12 @@ p{
   color: black;
   display: none;
   font: 100% serif;
-  text-align:left;
+  text-align:justify;
   margin-left: 80px;
   margin-right: 80px;
   line-height: 20pt;
+}
+
+img{
+  height: 300px;
 }
