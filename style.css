@@ -19,6 +19,7 @@ font-weight:bold;
 
 }
 
+
 button {
 color: #0099CC;
 background: transparent;
@@ -54,4 +55,8 @@ p{
 
 img{
   height: 300px;
+}
+video{
+  display:block;
+ margin:auto;
 }
