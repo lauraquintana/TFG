@@ -56,7 +56,7 @@ p{
 img{
   height: 300px;
 }
-video{
+video,a{
   display:block;
  margin:auto;
 }
